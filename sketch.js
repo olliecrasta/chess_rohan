@@ -68,5 +68,6 @@ function mouseClicked() {
         chessBoard.resetHighlight();
         this.selected = null
         
+        
     }
 }
